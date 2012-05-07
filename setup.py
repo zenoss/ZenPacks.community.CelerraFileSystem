@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.CelerraFileSystem"
 VERSION = "2.0.0"
 AUTHOR = "Randy Schneiderman"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.CelerraFileSystem']
 INSTALL_REQUIRES = []
